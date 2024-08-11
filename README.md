@@ -22,9 +22,9 @@ https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?select=sp500_companies.c
 
 <p float="left" align="center">
 
-<img src="https://github.com/karthikramx/Diversified-Stock-Portfolio-Using-Clustering-Analysis/blob/main/Images/barplot.png" alt="drawing" style="width:400px;"/>
+<img src="https://github.com/kasturisarthak/Diversified-Stock-Portfolio-Clustering-Analysis/blob/main/Images/barplot.png" alt="drawing" style="width:400px;"/>
 
-<img src="https://github.com/karthikramx/Diversified-Stock-Portfolio-Using-Clustering-Analysis/blob/main/Images/Scatterplot1.png" alt="drawing"     style="width:400px;"/>
+<img src="https://github.com/kasturisarthak/Diversified-Stock-Portfolio-Clustering-Analysis/blob/main/Images/Scatterplot1.png" alt="drawing"     style="width:400px;"/>
 </p>
 
 
@@ -43,7 +43,7 @@ The following features were calculated from the 10 year daily historical data fo
 The following plots show the correlogram plotted from the correlation matrix on the feature vectors. 
 
 <p float="left" align="center">
-<img src="https://github.com/karthikramx/Diversified-Stock-Portfolio-Using-Clustering-Analysis/blob/main/Images/corel_mat1.png" alt="drawing"     style="width:400px;"/>
+<img src="https://github.com/kasturisarthak/Diversified-Stock-Portfolio-Clustering-Analysis/blob/main/Images/corel_mat1.png" alt="drawing"     style="width:400px;"/>
 
 <img src="https://github.com/karthikramx/Diversified-Stock-Portfolio-Using-Clustering-Analysis/blob/main/Images/corel_mat2.png" alt="drawing" style="width:400px;"/>
 </p>
@@ -52,9 +52,9 @@ The following plots show the correlogram plotted from the correlation matrix on 
 The following results depict the optimal value for choosing K value using a spree plot and the clusters convex formed after choosing K =4. The stock symbols are used to represent its relative position in the cluster.
 
 <p float="left" align="center">
-<img src="https://github.com/karthikramx/Diversified-Stock-Portfolio-Using-Clustering-Analysis/blob/main/Images/1.png" alt="drawing"     style="width:400px;"/>
+<img src="https://github.com/kasturisarthak/Diversified-Stock-Portfolio-Clustering-Analysis/blob/main/Images/1.png" alt="drawing"     style="width:400px;"/>
 
-<img src="https://github.com/karthikramx/Diversified-Stock-Portfolio-Using-Clustering-Analysis/blob/main/Images/2.png" alt="drawing" style="width:400px;"/>
+<img src="https://github.com/kasturisarthak/Diversified-Stock-Portfolio-Clustering-Analysis/blob/main/Images/2.png" alt="drawing" style="width:400px;"/>
 </p>
 
 ### Correlation Analysis
@@ -62,19 +62,19 @@ The following results depict the optimal value for choosing K value using a spre
 Post K- Means clustering, Cluster wise distribution of Annualized returns, Annualized Volatility, Sharpe ratio and Beta were plotted. It can be observed that there is a significant difference in at least two or more clusters both in terms of mean value and standard deviation.
 
 <p float="left" align="center">
-<img src="https://github.com/karthikramx/Diversified-Stock-Portfolio-Using-Clustering-Analysis/blob/main/Images/3.png" alt="drawing"     style="width:400px;"/>
+<img src="https://github.com/kasturisarthak/Diversified-Stock-Portfolio-Clustering-Analysis/blob/main/Images/3.png" alt="drawing"     style="width:400px;"/>
 
-<img src="https://github.com/karthikramx/Diversified-Stock-Portfolio-Using-Clustering-Analysis/blob/main/Images/4.png" alt="drawing" style="width:400px;"/>
+<img src="https://github.com/kasturisarthak/Diversified-Stock-Portfolio-Clustering-Analysis/blob/main/Images/4.png" alt="drawing" style="width:400px;"/>
 </p>
 
 <p float="left" align="center">
-<img src="https://github.com/karthikramx/Diversified-Stock-Portfolio-Using-Clustering-Analysis/blob/main/Images/5.png" alt="drawing"     style="width:400px;"/>
+<img src="https://github.com/kasturisarthak/Diversified-Stock-Portfolio-Clustering-Analysis/blob/main/Images/5.png" alt="drawing"     style="width:400px;"/>
 
-<img src="https://github.com/karthikramx/Diversified-Stock-Portfolio-Using-Clustering-Analysis/blob/main/Images/6.png" alt="drawing" style="width:400px;"/>
+<img src="https://github.com/kasturisarthak/Diversified-Stock-Portfolio-Clustering-Analysis/blob/main/Images/6.png" alt="drawing" style="width:400px;"/>
 </p>
 
 <p align="center">
-  <img width="810" height="600" src="https://github.com/karthikramx/Diversified-Stock-Portfolio-Using-Clustering-Analysis/blob/main/Images/Ann%20returns%20vs%20Ann%20vol%20vs%20Clusters.png">
+  <img width="810" height="600" src="https://github.com/kasturisarthak/Diversified-Stock-Portfolio-Clustering-Analysis/blob/main/Images/Ann%20returns%20vs%20Ann%20vol%20vs%20Clusters.png">
 </p>
 
 
@@ -87,7 +87,7 @@ For validating the process of using clustering for creating a diversified portfo
      performance - [ORANGE]
 
 
-![aly_text](https://github.com/karthikramx/Diversified-Stock-Portfolio-Using-Clustering-Analysis/blob/main/Images/8.png)
+![aly_text](https://github.com/kasturisarthak/Diversified-Stock-Portfolio-Clustering-Analysis/blob/main/Images/8.png)
 
 
 ### Conclusion
